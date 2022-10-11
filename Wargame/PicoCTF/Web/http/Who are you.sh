@@ -1,0 +1,2 @@
+curl --user-agent "PicoBrowser" http://mercury.picoctf.net:36622/ --referer "http://mercury.picoctf.net:36622" -H "Date: Sun, 3 Oct 2018 15:00:00 GMT" -H "DNT:1" -H "X-Forwarded-For:193.10.226.48" -H "Accept-langua
+ge: sv"

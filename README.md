@@ -1,20 +1,30 @@
-# Hydejack Starter Kit
+# Portfolio and Development logs
+* since '22.10.11 ~ (making now)
+## Security Enginner
 
-A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
+### Studies
+1. Pwnable
+2. Cryptography
+3. Forensics
+4. Reverse Engineering
+5. Web hacking
+6. Network
+7. Misc.
 
-## Quick Start
-### Running locally
-1. Clone repository (git users), or [download] and unzip.
-2. Open terminal, `cd` into root directory (where `_config.yml` is located)
-3. Run `bundle install` [^1]
-4. Run `bundle exec jekyll serve`
-5. Open <http://localhost:4000/hydejack-starter-kit/>
+### Projects
+1. ADDS
+2. continues..
+
+### Wargames
+1. picoCTF
+2. Dreamhack
+3. pwnable.kr
+4. root-me.org
+
+### CTF
+1. AHC2022
+2. continues..
 
 ## What's next?
-* Open files and read the comments
-* Read the [docs](https://hydejack.com/docs/)
-* Buy the [PRO version](https://hydejack.com/download/) to get the project and resume layout, newsletter subscription box, custom forms, and more.
-
-[^1]: Requires Bundler. Install with `gem install bundler`.
-
-[download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
+* wanna be a professional WHITE HACKER
+* 
