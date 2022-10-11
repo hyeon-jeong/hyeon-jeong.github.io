@@ -1,8 +1,10 @@
-# Portfolio and Development logs
+<H1> Portfolio and Development logs </H1>
 * since '22.10.11 ~ (making now)
-## Security Enginner
 
-### Studies
+
+## 👩🏻‍💻 Security Enginner
+
+### Studies 📚
 1. Pwnable
 2. Cryptography
 3. Forensics
@@ -11,19 +13,21 @@
 6. Network
 7. Misc.
 
-### Projects
+### Projects ☕️
 1. ADDS
 2. continues..
 
-### Wargames
+### Wargames 🔐
 1. picoCTF
 2. Dreamhack
 3. pwnable.kr
 4. root-me.org
 
-### CTF
+### CTF 🚩
 1. AHC2022
 2. continues..
+
+
 
 ## What's next?
 * wanna be a professional WHITE HACKER
